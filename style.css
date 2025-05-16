@@ -11,7 +11,7 @@ body {
       background-color: #ffcc99;
     }
 
-    .menu-grid {
+    .menu {
       display: grid;
       grid-template-columns: 1fr 1fr;
       grid-template-rows: repeat(3, 200px); /* 3 rows, fixed height */
